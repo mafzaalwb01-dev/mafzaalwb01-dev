@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Afzaal Khan</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | WordPress Developer | Video Editor | Content Creator | Amazon Virtual Assistant
+🚀 Full Stack Web Developer | WordPress Developer | Video Editor | 
 </h3>
 
 <p align="center">
