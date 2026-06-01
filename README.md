@@ -164,19 +164,9 @@ const afzaal = {
   openTo        : ["Freelance Projects", "Remote Work", "Collaborations"],
   motto         : "Dream Big. Build Bigger. 🚀"
 };
+
+
 ```
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
 
 ## 🤝 Available For Work
 
