@@ -191,26 +191,3 @@ const afzaal = {
 
 ---
 
-## 👁️ Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mafzaalwb01-dev&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-</div>
-
-<div align="center">
-
-⭐ **If you like my work, consider starring my repos!** ⭐
-
-*"The best time to start was yesterday. The second best time is NOW." — Muhammad Afzaal Khan*
-
-</div>
