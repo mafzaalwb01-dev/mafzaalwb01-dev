@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Muhammad%20Afzaal%20Khan&fontSize=60&color=0:0a0a0f,100:0d1117&stroke=00d4ff&strokeWidth=2&fontColor=00d4ff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20WordPress%20%7C%20Creative%20Technologist&descSize=18&descAlignY=75&descColor=8b949e" width="100%"/>
 
 </div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines=🚀+Full+Stack+Web+Developer;⚡+WordPress+%26+PHP+Specialist;🎨+Creative+UI%2FUX+Enthusiast;📹+Video+Editor+%26+Content+Creator;🛒+Amazon+Virtual+Assistant;💡+Always+Building+Something+New" alt="Typing SVG" />
