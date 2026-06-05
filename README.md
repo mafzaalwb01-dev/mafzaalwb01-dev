@@ -67,10 +67,10 @@ Philosophy: "Dream Big. Build Bigger." 🔥
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117)](https://github.com/mafzaalwb01-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0d1117)](https://youtube.com/@YOUR-CHANNEL)
-[![TikTok](https://img.shields.io/badge/TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=00d4ff&labelColor=0d1117)](https://tiktok.com/@YOUR-TIKTOK)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:YOUR@EMAIL.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117)](https:linkedin.com/in/muhammad-afzaal-khan-843231409)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0d1117)](https://www.youtube.com/@afzaaltechhub)
+[![TikTok](https://img.shields.io/badge/TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=00d4ff&labelColor=0d1117)](https://www.tiktok.com/@codebyafz?_r=1&_t=ZS-96xDk5yee6U)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:mafzaalwb01@gmail.com)
 
 </div>
 
