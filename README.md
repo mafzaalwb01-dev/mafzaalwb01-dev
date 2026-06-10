@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
 
 ```yaml
 Name     : Muhammad Afzaal Khan
@@ -133,11 +133,11 @@ Philosophy: "Dream Big. Build Bigger." 🔥
 
 | 🎯 Goal | 📅 Timeline | 🔥 Status |
 |--------|------------|----------|
-| Master React.js & Node.js | Q2 2025 | 🟡 In Progress |
-| Launch Personal Portfolio | Q2 2025 | 🟡 In Progress |
-| Land First International Client | Q3 2025 | 🔵 Planned |
-| Build a SaaS Product | Q4 2025 | 🔵 Planned |
-| Reach 1K GitHub Followers | 2025 | 🔵 Planned |
+| Master React.js & Node.js | Q2 2027 | 🟡 In Progress |
+| Launch Personal Portfolio | Q2 2027 | 🟡 In Progress |
+| Land First International Client | Q3 2027 | 🔵 Planned |
+| Build a SaaS Product | Q4 2027 | 🔵 Planned |
+| Reach 1K GitHub Followers | 2028 | 🔵 Planned |
 
 </div>
 
