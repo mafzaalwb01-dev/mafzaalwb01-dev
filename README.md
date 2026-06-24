@@ -1,130 +1,120 @@
-<!--
-  ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗    ██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗███████╗
-  ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝    ██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔════╝
-  ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗      ██████╔╝█████╗  ███████║██║  ██║██╔████╔██║█████╗
-  ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝      ██╔══██╗██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══╝
-  ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗    ██║  ██║███████╗██║  ██║██████╔╝██║ ╚═╝ ██║███████╗
--->
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Syed%20Amir%20Hayat&fontSize=45&fontColor=e94560&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Programming%20Instructor%20%7C%20Mentor&descAlignY=58&descColor=ffffff&animation=fadeIn)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=650&height=110&lines=%24+whoami;Muhammad+Afzaal+Khan+%5B+mafzaalwb01-dev+%5D;Full+Stack+Developer+%7C+MERN+Stack+%7C+Freelancer)
+
+```
+███╗   ███╗ █████╗ ███████╗███████╗ █████╗  █████╗ ██╗     
+████╗ ████║██╔══██╗██╔════╝╚════██║██╔══██╗██╔══██╗██║     
+██╔████╔██║███████║█████╗      ██╔╝███████║███████║██║     
+██║╚██╔╝██║██╔══██║██╔══╝     ██╔╝ ██╔══██║██╔══██║██║     
+██║ ╚═╝ ██║██║  ██║██║        ██║  ██║  ██║██║  ██║███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
+
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE-00FF41?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=000000)
+![Role](https://img.shields.io/badge/ROLE-FULL_STACK_DEV-00FF41?style=for-the-badge&labelColor=000000)
+![Location](https://img.shields.io/badge/LOCATION-PAKISTAN_🇵🇰-00FF41?style=for-the-badge&labelColor=000000)
+![Freelance](https://img.shields.io/badge/FREELANCE-OPEN-00FF41?style=for-the-badge&labelColor=000000)
 
 </div>
 
 ---
 
-## 🧬 Identity
+## `$ cat identity.json`
 
-```yaml
-Name        : Syed Amir Hayat (Kakakhel)
-Role        : Full Stack Developer | Programming Instructor | Mentor
-Experience  : Full Stack Development & Technical Training
-Focus       : Laravel, MERN Stack & Modern Web Applications
-Mission     : Building real-world projects while mentoring future developers
+```json
+{
+  "name"        : "Muhammad Afzaal Khan",
+  "alias"       : "mafzaalwb01-dev",
+  "role"        : "Full Stack Developer",
+  "stack"       : "MERN (MongoDB, Express, React, Node.js)",
+  "location"    : "Pakistan 🇵🇰",
+  "experience"  : "< 1 year — but building fast 🚀",
+  "status"      : "Freelancer",
+  "currently"   : "Building real-world web projects",
+  "open_to"     : ["Freelance Projects", "Collaborations", "Remote Work"]
+}
 ```
 
 ---
 
-## 💼 Experience
+## `$ ls projects/ --filter=completed`
 
-| Organization | Role | Duration |
-|---|---|---|
-| 🏢 Mindgigs Pvt Ltd, Peshawar | Full Stack Developer & Tech Trainer | Jan 2020 – Oct 2020 |
-| 🌐 Aartech Pvt Ltd, London (Remote) | Full Stack Developer & Tech Trainer | Jan 2020 – Oct 2020 |
-| 🚀 LogicGigs | Founder / Software House | Ongoing |
+```
+.
+├── ✅ portfolio-website/        # Personal developer portfolio
+├── ✅ agriculture-website/      # Agriculture business web app  [Project #1]
+├── ✅ hair-salon-website/       # Hair salon booking & info site [Project #2]
+├── ✅ digital-clock-app/        # JavaScript animated clock app  [Project #3]
+├── ✅ us-diamonds-store/        # US & Diamond online store       [Project #4]
+└── ✅ more-coming-soon/         # 🔧 Next project loading...
 
-> ~6 years of full-stack development experience (2020 – Present).
-
----
-
-## 🚀 Projects
-
-| Project | Description | Status |
-|---|---|---|
-| 👔 Tailor Management System | Core PHP-based shop management system | ✅ Completed |
-| 🏥 Hospital Management System | Core PHP-based hospital operations system | ✅ Completed |
-| 🏨 Hotel Management System | Core PHP-based hotel booking & management | ✅ Completed |
-| 🛒 E-Commerce Management System | Core PHP-based online store platform | ✅ Completed |
-| 🏫 School Management System | Core PHP-based school automation system | ✅ Completed |
-| 📊 MLM Management System | Core PHP-based multi-level marketing platform | ✅ Completed |
-| 🎮 FragVault | Gamified task/survey earning platform (Laravel 11, Livewire, Filament, MySQL) | 🔧 In Development |
-| ⚙️ ERP System | Full ERP built with Laravel (Livewire) + React/Next.js | 🔧 In Development |
-
-> 📦 Delivered 50+ PHP-based projects for academic and freelance clients, with hands-on experience as a **Level 2 Seller on Fiverr** (3 completed projects).
+> 4-10 projects completed for freelance clients
+> Every project = real problem solved with real code 💻
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `$ cat tech_stack.sh`
 
-**Frontend**
+**⚡ Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend**
+**🔧 Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Database**
+**🗄️ Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-**Tools**
+**🛠️ Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🧪 Currently Exploring
+## `$ top — currently_learning`
 
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-4caf50?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-9c27b0?style=for-the-badge)
-![Laravel Livewire](https://img.shields.io/badge/Laravel_Livewire-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
----
-
-## 🤝 Looking to Collaborate On
-
-- MERN stack web applications
-- Laravel + React/Next.js projects
-- Open-source contributions in full-stack development
+```
+PID   PROCESS              CPU    STATUS
+001   React.js             █████  RUNNING 🟢
+002   Node.js + Express    ████   RUNNING 🟢
+003   MongoDB              ████   RUNNING 🟢
+004   Next.js              ██     LOADING...
+```
 
 ---
 
-## 📬 Connect With Me
+## `$ ping collaborate`
+
+```bash
+> Freelance web projects     ............ PING OK ✅
+> MERN stack applications    ............ PING OK ✅
+> Open-source contributions  ............ PING OK ✅
+> Remote work opportunities  ............ PING OK ✅
+```
+
+---
+
+## `$ git log --oneline --graph — github_stats`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsaami)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAAMI)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedamir.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/itsaami)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/its_aami)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_aami)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mafzaalwb01-dev&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41)](https://github.com/mafzaalwb01-dev)
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaalwb01-dev&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41)](https://github.com/mafzaalwb01-dev)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Syed Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITSAAMI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSAAMI&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ITSAAMI&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mafzaalwb01-dev&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41)](https://github.com/mafzaalwb01-dev)
 
 </div>
 
@@ -132,6 +122,8 @@ Mission     : Building real-world projects while mentoring future developers
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=%24+echo+%22Thanks+for+visiting!+%F0%9F%92%9A%22;%24+New+to+the+game+but+coding+hard+every+day;%24+Let%27s+build+something+great+together!;%24+logout...)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mafzaalwb01-dev&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
