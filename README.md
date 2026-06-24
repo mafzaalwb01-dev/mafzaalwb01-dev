@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=650&height=110&lines=%24+whoami;Muhammad+Afzaal+Khan+%5B+mafzaalwb01-dev+%5D;Full+Stack+Developer+%7C+MERN+Stack+%7C+Vibe Coder+Freelancer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=650&height=110&lines=%24+whoami;Muhammad+Afzaal+Khan+%5B+mafzaalwb01-dev+%5D;Full+Stack+Developer+%7C+MERN+Stack+%7C+Freelancer)
 
 ```
 ███╗   ███╗ █████╗ ███████╗███████╗ █████╗  █████╗ ██╗     
