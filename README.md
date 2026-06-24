@@ -43,7 +43,7 @@ Passions:
   - Building modern, responsive web apps
   - Creative UI/UX design & experiences
   - Video editing & content creation
-  - E-commerce & Amazon VA services
+  - WordPress Developer
   - Exploring new technologies daily
 
 Currently:
