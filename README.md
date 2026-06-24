@@ -88,7 +88,7 @@
 ```
 PID   PROCESS              CPU    STATUS
 001   React.js             █████  RUNNING 🟢
-002   Node.js + Express    ████   RUNNING 🟢
+002   Node.js + Express    ████   LODING...
 003   MongoDB              ████   RUNNING 🟢
 004   Next.js              ██     LOADING...
 ```
@@ -105,18 +105,6 @@ PID   PROCESS              CPU    STATUS
 ```
 
 ---
-
-## `$ git log --oneline --graph — github_stats`
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mafzaalwb01-dev&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41)](https://github.com/mafzaalwb01-dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaalwb01-dev&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41)](https://github.com/mafzaalwb01-dev)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mafzaalwb01-dev&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41)](https://github.com/mafzaalwb01-dev)
-
-</div>
 
 ---
 
