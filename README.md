@@ -46,7 +46,8 @@
 ├── ✅ agriculture-website/      # Agriculture business web app  [Project #1]
 ├── ✅ hair-salon-website/       # Hair salon booking & info site [Project #2]
 ├── ✅ digital-clock-app/        # JavaScript animated clock app  [Project #3]
-├── ✅ us-diamonds-store/        # US & Diamond online store       [Project #4]
+├── ✅ us-diamonds-store/       # US & Diamond online store       [Project #4]
+├── ✅ JavaScript-Calculter/     #calculter in js                 [Project #5]
 └── ✅ more-coming-soon/         # 🔧 Next project loading...
 
 > 4-10 projects completed for freelance clients
