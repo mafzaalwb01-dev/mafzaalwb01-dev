@@ -30,7 +30,7 @@
   "stack"       : "MERN (MongoDB, Express, React, Node.js)",
   "location"    : "Pakistan 🇵🇰",
   "experience"  : "< 1 year — but building fast 🚀",
-  "status"      : "Freelancer",
+  "status"      : "Freelancer", Self Emplay
   "currently"   : "Building real-world web projects",
   "open_to"     : ["Freelance Projects", "Collaborations", "Remote Work"]
 }
