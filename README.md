@@ -49,6 +49,7 @@
 ├── ✅ us-diamonds-store/        # US & Diamond online store       [Project #4]
 ├── ✅ JavaScript-Calculter/     #calculter in js                 [Project #5]
 ├── ✅ To-Do-App/                #TO-DO-APP in js                 [Project #6]
+├── ✅ Skill Birgh AI/           #SkillBrigh AI CV generter                 [Project #7]
 └── ✅ more-coming-soon/         # 🔧 Next project loading...
 
 > 4-10 projects completed for freelance clients
