@@ -28,7 +28,7 @@
   "alias"       : "mafzaalwb01-dev",
   "role"        : "Full Stack Developer",
   "stack"       : "MERN (MongoDB, Express, React, Node.js)",
-  "location"    : "Pakistan 🇵🇰",
+  "location"    : "Pakistan 🇵🇰",x
   "experience"  : "< 1 year — but building fast 🚀",
   "status"      : "Freelancer", Self Emplay
   "currently"   : "Building real-world web projects",
