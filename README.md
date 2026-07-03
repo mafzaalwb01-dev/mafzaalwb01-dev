@@ -94,7 +94,7 @@ PID   PROCESS              CPU    STATUS
 002   Node.js + Express    ████   LODING...
 003   MongoDB              ████   RUNNING 🟢
 004   Next.js              ██     LOADING...
-005   N8N Autumation       ██     RUNNING 🟢
+005   N8N Autumation  Module 1 Complete     ██     RUNNING 🟢
 
 
 `
