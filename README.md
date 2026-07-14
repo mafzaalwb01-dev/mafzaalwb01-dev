@@ -1,122 +1,159 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=650&height=110&lines=%24+whoami;Muhammad+Afzaal+Khan+%5B+mafzaalwb01-dev+%5D;Full+Stack+Developer+%7C+MERN+Stack+%7C+Freelancer)
+# Hi 👋 I'm Muhammad Afzaal Khan
 
-```
-███╗   ███╗ █████╗ ███████╗███████╗ █████╗  █████╗ ██╗     
-████╗ ████║██╔══██╗██╔════╝╚════██║██╔══██╗██╔══██╗██║     
-██╔████╔██║███████║█████╗      ██╔╝███████║███████║██║     
-██║╚██╔╝██║██╔══██║██╔══╝     ██╔╝ ██╔══██║██╔══██║██║     
-██║ ╚═╝ ██║██║  ██║██║        ██║  ██║  ██║██║  ██║███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
+### 🚀 Full Stack Developer | Future Software Engineer
 
-![Status](https://img.shields.io/badge/STATUS-AVAILABLE-00FF41?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=000000)
-![Role](https://img.shields.io/badge/ROLE-FULL_STACK_DEV-00FF41?style=for-the-badge&labelColor=000000)
-![Location](https://img.shields.io/badge/LOCATION-PAKISTAN_🇵🇰-00FF41?style=for-the-badge&labelColor=000000)
-![Freelance](https://img.shields.io/badge/FREELANCE-OPEN-00FF41?style=for-the-badge&labelColor=000000)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Future+Software+Engineer;Building+Modern+Responsive+Websites;Learning+Something+New+Every+Day;Welcome+To+My+GitHub+Profile!" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mafzaalwb01-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `$ cat identity.json`
+# 💫 About Me
 
-```json
-{
-  "name"        : "Muhammad Afzaal Khan",
-  "alias"       : "mafzaalwb01-dev",
-  "role"        : "Full Stack Developer",
-  "stack"       : "MERN (MongoDB, Express, React, Node.js)",
-  "location"    : "Pakistan 🇵🇰",x
-  "experience"  : "< 1 year — but building fast 🚀",
-  "status"      : "Freelancer", Self Emplay
-  "currently"   : "Building real-world web projects",
-  "open_to"     : ["Freelance Projects", "Collaborations", "Remote Work"]
-}
-```
+💻 Passionate Full Stack Developer from Pakistan.
+
+🎯 Currently improving my Full Stack Development skills by building real-world projects.
+
+🌱 Learning modern web technologies every day.
+
+🚀 My goal is to become a professional Software Engineer.
 
 ---
 
-## `$ ls projects/ --filter=completed`
+# 🚀 Current Focus
 
-```
-.
-├── ✅ portfolio-website/        # Personal developer portfolio
-├── ✅ agriculture-website/      # Agriculture business web app  [Project #1]
-├── ✅ hair-salon-website/       # Hair salon booking & info site [Project #2]
-├── ✅ digital-clock-app/        # JavaScript animated clock app  [Project #3]
-├── ✅ us-diamonds-store/        # US & Diamond online store       [Project #4]
-├── ✅ JavaScript-Calculter/     #calculter in js                 [Project #5]
-├── ✅ To-Do-App/                #TO-DO-APP in js                 [Project #6]
-├── ✅ Skill Birgh AI/           #SkillBrigh AI CV generter                 [Project #7]
-└── ✅ more-coming-soon/         # 🔧 Next project loading...
-
-> 4-10 projects completed for freelance clients
-> Every project = real problem solved with real code 💻
-```
+- 🌐 Full Stack Development
+- ⚛ React
+- 🟢 Node.js
+- 🍃 MongoDB
+- 🐘 PHP
+- 🛢 MySQL
+- 🎨 Tailwind CSS
+- ⚡ Clean UI/UX
 
 ---
 
-## `$ cat tech_stack.sh`
+# 🛠 Tech Stack
 
-**⚡ Frontend**
+<p align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,mongodb,php,mysql,git,github,npm,vscode&perline=6" />
 
-**🔧 Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**🗄️ Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-**🛠️ Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</p>
 
 ---
 
-## `$ top — currently_learning`
+# 🌟 Featured Projects
 
-```
-PID   PROCESS              CPU    STATUS
-001   React.js             █████  RUNNING 🟢
-002   Node.js + Express    ████   LODING...
-003   MongoDB              ████   RUNNING 🟢
-004   Next.js              ██     LOADING...
+### 🌐 Portfolio Website
+🔗 https://mafzaalwb01-dev.github.io/Afzaal-Portfolio/
 
+### 🚗 BK Car Wash UAE
 
-`
+Professional responsive business website.
 
 ---
 
-## `$ ping collaborate`
+### 🌾 Agriculture Website
 
-```bash
-> Freelance web projects     ............ PING OK ✅
-> MERN stack applications    ............ PING OK ✅
-> Open-source contributions  ............ PING OK ✅
-> Remote work opportunities  ............ PING OK ✅
-```
+Modern agriculture information website.
 
 ---
+
+### 💇 Hair Salon Website
+
+Modern responsive salon website.
+
+---
+
+### ✅ Todo App
+
+JavaScript Todo Application.
+
+---
+
+### 🧮 Calculator
+
+Calculator using JavaScript.
+
+---
+
+### ⏰ Digital Clock
+
+Real-time digital clock.
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mafzaalwb01-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaalwb01-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mafzaalwb01-dev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master MERN Stack
+
+✅ Build 30+ Real Projects
+
+✅ Start Freelancing on Fiverr
+
+✅ Contribute to Open Source
+
+✅ Become a Software Engineer
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mafzaalwb01-dev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://mafzaalwb01-dev.github.io/Afzaal-Portfolio/">
+🌐 Portfolio
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Code is not just my skill, it's my way of turning ideas into reality."**
 
 ---
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=%24+echo+%22Thanks+for+visiting!+%F0%9F%92%9A%22;%24+New+to+the+game+but+coding+hard+every+day;%24+Let%27s+build+something+great+together!;%24+logout...)
+### ⭐ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=mafzaalwb01-dev&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Happy+Coding!;Thanks+For+Visiting!;See+You+Again!"/>
 
 </div>
