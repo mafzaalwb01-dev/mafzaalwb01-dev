@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Muhammad Afzaal Khan</h1>
 
-<h3 align="center">🚀 Learning & Building Every Day</h3>
+<h3 align="center">🚀 Learning & Building Every Day</h3
 
 <p align="center">
   <a href="https://github.com/mafzaalwb01-dev">
