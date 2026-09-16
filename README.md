@@ -44,11 +44,60 @@ Student, currently building full stack web projects while learning the fundament
 
 ## Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,nodejs,python,wordpress,mysql,linux,git,docker,githubactions,vscode,figma" />
-
-</div>
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42"/><br/><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42"/><br/><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42"/><br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42"/><br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42"/><br/><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42"/><br/><sub><b>PHP</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42"/><br/><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/><br/><sub><b>Python</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="42" height="42"/><br/><sub><b>WordPress</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42"/><br/><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42"/><br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42"/><br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42"/><br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="42" height="42"/><br/><sub><b>Actions</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42"/><br/><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42"/><br/><sub><b>Figma</b></sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
