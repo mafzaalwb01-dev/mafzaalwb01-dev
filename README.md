@@ -6,6 +6,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:8B6914,100:D4AF37&text=Muhammad%20Afzaal%20Khan&fontColor=FFD700&fontSize=42&fontAlignY=32&desc=%F0%9F%9A%80%20Full%20Stack%20Web%20Developer%20%E2%80%A2%20Future%20DevSecOps%20%26%20Cloud%20Security%20Engineer&descSize=15&descAlignY=52&animation=fadeIn" width="100%" />
 
+<img src="https://github.com/mafzaalwb01-dev.png" width="150" height="150" style="border-radius:50%;border:3px solid #D4AF37;" />
+
+<br/><br/>
+
 <a href="https://mafzaalwb01-dev.github.io/Afzaal-Portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Afzaal;%F0%9F%8E%93+Student+%7C+Learning+Every+Single+Day;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%9B%A1%EF%B8%8F+Exploring+DevSecOps+%26+Cloud+Security;%F0%9F%9A%80+Open+for+Freelance+Web+Projects" alt="Typing SVG" />
 </a>
@@ -75,14 +79,29 @@
 </tr>
 </table>
 
+<div align="center">
+
+<br/>
+
+<a href="https://mafzaalwb01-dev.github.io/Afzaal-Portfolio/">
+  <img src="./assets/portfolio-preview.png" width="90%" style="border-radius:10px;border:2px solid #D4AF37;" alt="Portfolio website preview" />
+</a>
+
+<sub>👆 Click to visit my live portfolio</sub>
+
+</div>
+
+<br/>
+
 <details>
-<summary><b>&nbsp;⟡&nbsp; 📜 Random Dev Quote</b></summary>
+<summary><b>&nbsp;⟡&nbsp; 📜 Dev Quote</b></summary>
 
 <br/>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+> *"The best way to learn security is to build things, break them yourself,*
+> *and fix them before someone else does."*
 
 </div>
 
@@ -249,13 +268,13 @@
 
 <br/>
 
-| 🚀 Project | 🧰 Stack | 🔗 Live |
+| Project | Stack | Live |
 |:--|:--|:--|
 | **Afzaal Portfolio** | HTML · CSS · JavaScript | [Visit →](https://mafzaalwb01-dev.github.io/Afzaal-Portfolio/) |
-| *🔜 Next project* | — | `coming soon` |
-| *🔜 Next project* | — | `coming soon` |
+| *Next project* | — | `coming soon` |
+| *Next project* | — | `coming soon` |
 
-<i>📌 More projects are on the way as I keep building and learning.</i>
+<i>More projects are on the way as I keep building and learning.</i>
 
 <br/>
 
