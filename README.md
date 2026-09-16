@@ -1,157 +1,291 @@
+<!-- ========================================================= -->
+<!--                    MUHAMMAD AFZAAL KHAN                  -->
+<!--                 Premium GitHub Profile README            -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://ui-avatars.com/api/?name=M+A&background=0D1117&color=D4AF37&size=150&bold=true&font-size=0.42&rounded=true&length=2" width="130" height="130" />
+<img src="./hero-logo.png" width="150" alt="Muhammad Afzaal Khan Logo"/>
 
-<h1>Muhammad Afzaal Khan</h1>
+# Muhammad Afzaal Khan
 
-<p><b>Full Stack Web Developer</b> — learning DevSecOps &amp; Cloud Security</p>
-<p>📍 Nowshera, KPK, Pakistan</p>
+### Full Stack Web Developer
+**Learning DevSecOps & Cloud Security**
 
-<br/>
+📍 **Nowshera, KPK, Pakistan**
+
+<br>
 
 <a href="https://github.com/mafzaalwb01-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/muhammad-afzaal-khan-843231409">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/muhammad-afzaal-khan-843231409/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://mafzaalwb01-dev.github.io/Afzaal-Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=flat-square&logo=vercel&logoColor=black" />
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-D4A72C?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="mailto:mafzaalwb01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
-## About
+<div align="center">
 
-Student, currently building full stack web projects while learning the fundamentals of **DevSecOps** and **Cloud Security** — Linux, Git, Docker, CI/CD, and networking. I take on freelance web development work on the side to apply what I learn.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0e7490,100:0f172a&height=3&section=header"/>
 
-> "Build real projects. Break them. Rebuild better."
+</div>
 
-**Status**
-| | |
-|---|---|
-| 🎓 Role | Student · Full Stack Web Developer |
-| 🛡️ Focus | DevSecOps · Cloud Security · Cyber Security |
-| 🧠 Learning | Linux · Git · Docker · CI/CD · Networking |
-| 💼 Availability | Open to freelance web development projects |
+---
 
-<br/>
-
-## Tech Stack
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42"/><br/><sub><b>HTML5</b></sub>
+<td width="62%" valign="top">
+
+### Hello, I'm Muhammad Afzaal 👋
+
+I'm a **student and Full Stack Web Developer** focused on building real-world web projects while developing my knowledge of **DevSecOps, Cloud Security, and secure software development**.
+
+I enjoy turning ideas into practical applications and continuously improving my development workflow.
+
+My current interests include:
+
+- 🌐 Full Stack Web Development
+- ⚙️ DevSecOps & CI/CD
+- ☁️ Cloud Fundamentals
+- 🔐 Cyber Security & Secure Development
+- 🐧 Linux
+- 🐳 Docker
+- 🔧 Git & GitHub
+- 🚀 Automation
+
+> **"Build real projects. Break them. Rebuild better."**
+
+<br>
+
+**🟢 Open to:** Freelance Web Development Projects
+
 </td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42"/><br/><sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42"/><br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42"/><br/><sub><b>React</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42"/><br/><sub><b>Tailwind</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42"/><br/><sub><b>PHP</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42"/><br/><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/><br/><sub><b>Python</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="42" height="42"/><br/><sub><b>WordPress</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42"/><br/><sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42"/><br/><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42"/><br/><sub><b>Git</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42"/><br/><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="42" height="42"/><br/><sub><b>Actions</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42"/><br/><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42"/><br/><sub><b>Figma</b></sub>
+
+<td width="38%" align="center">
+
+<img
+src="./profile.jpg"
+width="230"
+alt="Muhammad Afzaal Khan"
+style="border-radius:20px;"
+/>
+
+<br><br>
+
+**Student • Developer • Future Software Engineer**
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## Portfolio
-
-<a href="https://mafzaalwb01-dev.github.io/Afzaal-Portfolio/">
-  <img src="./assets/portfolio-preview.png" width="100%" style="border-radius:8px;" alt="Portfolio website preview" />
-</a>
-
-<p><a href="https://mafzaalwb01-dev.github.io/Afzaal-Portfolio/">→ Visit live site</a></p>
-
-<br/>
-
-## Featured Project
-
-| Project | Stack | Link |
-|---|---|---|
-| **Afzaal Portfolio** | HTML · CSS · JavaScript | [Visit →](https://mafzaalwb01-dev.github.io/Afzaal-Portfolio/) |
-| *Next project* | — | coming soon |
-
-<br/>
-
-## Contact
+## ⚡ Current Focus
 
 <div align="center">
 
-<a href="mailto:mafzaalwb01@gmail.com">
-  <img src="https://img.shields.io/badge/Hire%20Me-D4AF37?style=flat-square&logo=minutemailer&logoColor=black" />
-</a>
-<a href="https://linkedin.com/in/muhammad-afzaal-khan-843231409">
-  <img src="https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+| 🧑‍💻 Role | 📚 Learning | 🔐 Focus | ⚙️ Tools | 🚀 Open To |
+|---|---|---|---|---|
+| Student & Full Stack Developer | DevSecOps & Cloud Security | Secure Development | Linux • Git • Docker • CI/CD | Freelance Web Projects |
 
 </div>
 
-<br/>
+---
 
-## Live GitHub Signals
+# 🛠️ Tech Stack
+
+## 🌐 Frontend
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mafzaalwb01-dev&show_icons=true&hide_border=true&theme=default" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaalwb01-dev&layout=compact&hide_border=true&theme=default" />
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=mafzaalwb01-dev&hide_border=true&theme=default" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
 </div>
 
-<sub>If a card looks broken above, hard-refresh the page (Ctrl+Shift+R) — these are live services and occasionally slow to respond.</sub>
+<br>
 
-<br/>
+## ⚙️ Backend
 
 <div align="center">
-<sub>Thanks for stopping by.</sub>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=00A98F"/>
+
 </div>
+
+<br>
+
+## 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</div>
+
+<br>
+
+## ☁️ DevOps & Cloud Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Cloud%20Fundamentals-111827?style=for-the-badge&logo=icloud&logoColor=5AC8FA"/>
+
+</div>
+
+<br>
+
+## 🔐 Security Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DevSecOps-111827?style=for-the-badge&logo=security&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Cyber%20Security-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/Secure%20Coding-111827?style=for-the-badge&logo=code&logoColor=38BDF8"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=mafzaalwb01-dev&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=facc15&text_color=e2e8f0"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaalwb01-dev&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0"
+height="170"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=mafzaalwb01-dev&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=FACC15&currStreakLabel=38BDF8"
+width="70%"
+/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌾 Agri-culture-New
+
+An agriculture web platform designed for farmers with features focused on:
+
+- Crop management
+- Weather insights
+- Smart farming solutions
+- Productivity
+- Sustainable agriculture
+
+<br>
+
+<a href="https://github.com/mafzaalwb01-dev">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💇 Hair Salon Frontend
+
+A modern and responsive frontend website designed for a hair salon.
+
+Focus areas:
+
+- Responsive UI
+- Modern layout
+- Clean components
+- User-friendly design
+
+<br>
+
+<a href="https://github.com/mafzaalwb01-dev/hair-salon-frontend">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧩 More Projects Coming Soon
+
+<div align="center">
+
+**01** — Full Stack Application  
+↓  
+**02** — DevSecOps Project  
+↓  
+**03** — Cloud-Based Project  
+↓  
+**04** — Security-Focused Application
+
+</div>
+
+---
+
+# 🧭 My Development Journey
+
+<div align="center">
+
+```text
+┌───────────────────────────────┐
+│     Full Stack Development    │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│      DevSecOps Fundamentals   │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│       Cloud Fundamentals      │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│        Cyber Security         │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│      Future Software Engineer │
+└───────────────────────────────┘
