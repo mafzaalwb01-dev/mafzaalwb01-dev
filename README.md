@@ -2,14 +2,22 @@
 
 # Muhammad Afzaal Khan
 
-### Full Stack Web Developer | Learning DevSecOps & Cloud Security
+### Full Stack Web Developer
+**Currently Learning DevSecOps & Cloud Security**
 
 📍 Nowshera, KPK, Pakistan
 
-[GitHub](https://github.com/mafzaalwb01-dev) •
-[LinkedIn](https://www.linkedin.com/in/muhammad-afzaal-khan-843231409/) •
-[Portfolio](YOUR_PORTFOLIO_URL) •
-[Email](mailto:mafzaalwb01@gmail.com)
+<p>
+<a href="https://github.com/mafzaalwb01-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammad-afzaal-khan-843231409/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mafzaalwb01@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
@@ -17,101 +25,136 @@
 
 ## 👋 About Me
 
-I'm a student and Full Stack Web Developer who enjoys building real-world web projects.
+<table>
+<tr>
 
-Currently, I'm learning **DevSecOps and Cloud Security** while improving my skills in modern web development.
+<td width="70%" valign="top">
+
+Hi, I'm **Muhammad Afzaal Khan**, a student and **Full Stack Web Developer**.
+
+I build real-world web projects and I'm currently learning **DevSecOps and Cloud Security** alongside web development.
+
+### Currently
 
 - 🌐 Full Stack Web Development
-- 🔐 DevSecOps & Cyber Security
-- ☁️ Cloud Fundamentals
+- 🔐 DevSecOps & Cloud Security
 - 🐧 Linux
 - 🐳 Docker
-- ⚙️ Git, GitHub & CI/CD
-- 💼 Open to freelance web development projects
+- ⚙️ Git & GitHub
+- 🔄 CI/CD
+- ☁️ Cloud Fundamentals
+- 🤖 AI Tools & AI-assisted development
 
-> "Build real projects. Break them. Rebuild better."
+I'm continuously learning, building projects, and improving my development skills.
+
+> **"Build real projects. Break them. Rebuild better."**
+
+</td>
+
+<td width="30%" align="center">
+
+<img
+src="https://github.com/mafzaalwb01-dev.png"
+width="220"
+style="border-radius:50%;"
+alt="Muhammad Afzaal Khan"
+/>
+
+<br><br>
+
+**Muhammad Afzaal Khan**
+
+Full Stack Web Developer
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
+### Web Development
 
-### Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<br><br>
 
-### Database
+### Databases
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### DevOps & Tools
+<br><br>
 
-<p>
+### DevOps & Cloud
+
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker" />
-</p>
 
----
+<br><br>
 
-## 🚀 Projects
+<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-111827?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevSecOps-111827?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Security-111827?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
-### 🌾 Agri-culture-New
+<br><br>
 
-Agriculture web platform for farmers with crop management, weather insights and smart farming solutions.
+### AI & Development Tools
 
-[View Repository](https://github.com/mafzaalwb01-dev)
-
-### 💇 Hair Salon Frontend
-
-Modern and responsive frontend website for a hair salon.
-
-[View Repository](https://github.com/mafzaalwb01-dev/hair-salon-frontend)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mafzaalwb01-dev&show_icons=true&hide_border=true&theme=github_dark" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaalwb01-dev&layout=compact&hide_border=true&theme=github_dark" height="170">
+<img src="https://img.shields.io/badge/AI%20Tools-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=code&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📚 Currently Learning
-
-- DevSecOps
-- Cloud Security
-- Docker
-- CI/CD
-- Linux
-- Cyber Security
-
----
-
-## 📫 Contact
-
-**GitHub:** [mafzaalwb01-dev](https://github.com/mafzaalwb01-dev)
-
-**LinkedIn:** [Muhammad Afzaal Khan](https://www.linkedin.com/in/muhammad-afzaal-khan-843231409/)
-
-**Email:** mafzaalwb01@gmail.com
-
----
+# 📊 GitHub Stats
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+<img
+src="https://github-readme-stats.vercel.app/api?username=mafzaalwb01-dev&show_icons=true&hide_border=true&theme=github_dark"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaalwb01-dev&layout=compact&hide_border=true&theme=github_dark"
+height="170"
+/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=mafzaalwb01-dev&theme=github-dark-blue&hide_border=true"
+width="70%"
+/>
 
 </div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+**DevSecOps** • **Cloud Security** • **Linux** • **Docker** • **CI/CD**
+
+</div>
+
+I'm currently building my knowledge of secure development, Linux, DevSecOps practices, cloud fundamentals, containers, and CI/CD.
+
+---
+
+# 🎯 My Current Path
+
+```text
+Full Stack Web Development
+          ↓
+    DevSecOps
+          ↓
+   Cloud Security
+          ↓
+ Future Software Engineer
