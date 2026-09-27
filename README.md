@@ -115,17 +115,6 @@ Full Stack Web Developer
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=mafzaalwb01-dev&show_icons=true&hide_border=true&theme=github_dark"
-height="170"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzaalwb01-dev&layout=compact&hide_border=true&theme=github_dark"
-height="170"
-/>
-
-<br><br>
 
 <img
 src="https://streak-stats.demolab.com?user=mafzaalwb01-dev&theme=github-dark-blue&hide_border=true"
